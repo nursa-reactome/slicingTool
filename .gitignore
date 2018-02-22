@@ -1,3 +1,6 @@
+log.txt
+*Log.txt
+output.txt
 *Test.txt
 *.prop
 *.sql
