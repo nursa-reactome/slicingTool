@@ -1,0 +1,32 @@
+9006931 Signaling by Nuclear Receptors
+1640170 Cell Cycle
+1500931	Cell-Cell communications
+8953897 Cellular response to external stimuli
+4839726	Chromatin organization
+400253	Circadian clock
+1266738 Developmental Biology
+8963743 Digestion and absorbtion
+1643685	Disease
+73894	DNA Repair
+69306	DNA Replication
+1474244 Extracellular matrix organization
+74160	Gene Expression (Transcription)
+109582	Hemostasis
+168256  Immune system
+1430728	Metabolism
+392499	Metabolism of proteins
+8953854 Metabolism of RNA
+5205647	Mitophagy
+397014  Muscle contraction
+870392	Mycobacterium tuberculosis biological processes
+112316  Neuronal System
+1852241	Organelle biogenesis and maintenance
+5357801 Programmed Cell Death
+1474165	Reproduction
+162582	Signal transduction
+382551  Transport of small molecules
+5653656	Vesicle-mediated transport
+1670466	DNA replication and repair
+2422406 Innate Immune System
+1660598	Metabolism
+5252538 Drosophila signaling pathways
