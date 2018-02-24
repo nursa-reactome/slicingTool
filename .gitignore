@@ -1,7 +1,8 @@
-log.txt
-*Log.txt
-output.txt
-*Test.txt
+.*
+!.gitignore
+*[lL]og.txt
+log*.txt
+output*
 *.prop
 *.sql
 *.log
@@ -9,4 +10,5 @@ archive
 *.protected
 *.bak
 log
+log*.txt
 *.gz
